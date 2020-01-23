@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2020.1.21)  21 JAN 2020 17:18
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2020.1.22)  22 JAN 2020 14:59
 entering extended mode
 **./2137_lab1_report.tex
 (2137_lab1_report.tex
@@ -375,11 +375,11 @@ File: lab1_example_screenshot.png Graphic file (type png)
 <use lab1_example_screenshot.png>
 Package pdftex.def Info: lab1_example_screenshot.png  used on input line 109.
 (pdftex.def)             Requested size: 450.91621pt x 110.60458pt.
-<"Screenshot of history".png, id=6, 731.73375pt x 499.11469pt>
+<"Screenshot of history".png, id=6, 724.20563pt x 500.62032pt>
 File: "Screenshot of history".png Graphic file (type png)
 <use "Screenshot of history".png>
 Package pdftex.def Info: "Screenshot of history".png  used on input line 121.
-(pdftex.def)             Requested size: 328.82707pt x 224.29489pt.
+(pdftex.def)             Requested size: 328.82707pt x 227.30899pt.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstlang1.sty"
 File: lstlang1.sty 2015/06/04 1.6 listings language file
@@ -409,8 +409,8 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 148.
  ) 
 Here is how much of TeX's memory you used:
  7825 strings out of 493308
- 114254 string characters out of 3138768
- 246014 words of memory out of 3000000
+ 114260 string characters out of 3138768
+ 246067 words of memory out of 3000000
  11289 multiletter control sequences out of 15000+200000
  8364 words of font info for 30 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -422,7 +422,7 @@ X 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fon
 ts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
 public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/am
 sfonts/cm/cmtt10.pfb>
-Output written on 2137_lab1_report.pdf (2 pages, 205506 bytes).
+Output written on 2137_lab1_report.pdf (2 pages, 222828 bytes).
 PDF statistics:
  72 PDF objects out of 1000 (max. 8388607)
  21 named destinations out of 1000 (max. 500000)
